@@ -1,0 +1,10 @@
+{
+    "extends": [
+        "./node_modules/eslint-config-airbnb-base/.eslintrc"
+    ],
+    "rules": {
+        "no-console": 0,
+        "import/extensions": 0,
+        "no-await-in-loop": 0
+    }
+}
